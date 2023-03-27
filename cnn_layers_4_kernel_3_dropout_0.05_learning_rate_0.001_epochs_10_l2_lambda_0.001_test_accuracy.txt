@@ -1,0 +1,1 @@
+Accuracy on test data: 61.18%
